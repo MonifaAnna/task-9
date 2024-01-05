@@ -34,3 +34,14 @@
     padding: 10px;
     width: 248px;
   }
+  .picture{
+    width: 700px;
+    height: 806px;
+  }
+  .last{
+    color: white;
+    background-color: #289BDE;
+  }
+  .main{
+    background-color: #F4FAFD;
+  }
