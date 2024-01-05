@@ -1,0 +1,17 @@
+.batton{
+    margin-left: 250px;
+  }
+  button{
+    background-color: white;
+    color:rgb(50, 50, 227);
+    font-size: 20px;
+    font-weight: 700;
+    border: 2px solid rgb(87, 87, 237);
+    border-radius: 5px;
+    margin-top: 10px;
+    height: 50px;
+    padding:10px 20px;
+  }
+  img{
+    opacity: ;
+  }
