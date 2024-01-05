@@ -45,3 +45,14 @@
   .main{
     background-color: #F4FAFD;
   }
+  .mid-sec{
+    height: 300px;
+    border-radius: 5px;
+    background: #289BDE;
+    margin-top: 130px;
+    padding:100px;
+  }
+  .last-batton{
+    margin-left: 450px;
+    margin-top: 60px;
+  }
