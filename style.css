@@ -3,15 +3,34 @@
   }
   button{
     background-color: white;
-    color:rgb(50, 50, 227);
+    color:#289BDE;rgb(50, 50, 227);
     font-size: 20px;
     font-weight: 700;
-    border: 2px solid rgb(87, 87, 237);
+    border: 2px solid #289BDE;
     border-radius: 5px;
     margin-top: 10px;
     height: 50px;
     padding:10px 20px;
   }
-  img{
-    opacity: ;
+ .head{
+  margin-bottom: 40px;
+ }
+  .hour{
+    margin-bottom: 180px;
+    background-color:#289BDE;
+    color:white;
+  }
+  .second-div{
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 70px;
+  }
+  .second-sec{
+    text-align: center;
+    margin-top: 40px;
+  }
+  .betton{
+    background-color: #289BDE;
+    padding: 10px;
+    width: 248px;
   }
