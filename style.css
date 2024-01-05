@@ -73,13 +73,15 @@
   .chobi{
     width: 55px;
     height: 44px;
+    margin-left: 20px;
   }
   .chobit{
     width: 24px;
     height: 24px;
-    
-   
   }
   .pictures{
-    margin-left: 400px;
+    margin-left: 350px;
+  }
+  .last-pic{
+    opacity: 0.5;
   }
