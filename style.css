@@ -1,5 +1,14 @@
 .batton{
-    margin-left: 250px;
+    margin-left: 150px;
+  }
+  .regis{
+    margin-left: 80px;
+  }
+  .navbar-home{
+    margin-left: 150px;
+  }
+  .mark{
+    margin-left: 50px;
   }
   button{
     background-color: white;
@@ -15,10 +24,17 @@
  .head{
   margin-bottom: 40px;
  }
+ .head-item{
+  margin-bottom: 40px;
+ }
+
   .hour{
     margin-bottom: 180px;
     background-color:#289BDE;
     color:white;
+  }
+  .hour-last{
+    margin-bottom: 290px;
   }
   .second-div{
     text-align: center;
